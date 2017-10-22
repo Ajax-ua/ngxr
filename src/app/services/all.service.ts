@@ -1,7 +1,7 @@
 import { IRest, Main } from './main.service';
 import * as _ from 'lodash';
 
-export class All implements IRest{
+export class All implements IRest {
   url = '';
   // i: number = 0;
   // arr;
